@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there
 ### 👀 I'm interested in data analytics
 ### 🌱 I’m currently learning SQL using youtube and other free resources
 
