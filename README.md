@@ -1,5 +1,8 @@
 ### Hi there 👋
+### 👀 I'm interested in data analytics
 ### 🌱 I’m currently learning SQL using youtube and other free resources
+
+
 <!--
 **davina-chikeokoro/davina-chikeokoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
